@@ -1,18 +1,3 @@
-logo
-Answer
-more
-Copy
-Explain it
-Summarise
-Translate
-Grammar checker
-Disable
-up
-Disable until next visit
-Disable for this page
-Disable for this website
-Disable globally
-You can re-enable in setting
 :root{
      --background: url('https://images.alphacoders.com/632/632525.png');
      --activetext-colour: white;
@@ -863,7 +848,7 @@ You can re-enable in setting
         margin: 0px;
     }
     #app-mount .typeWindows_e41dab:after {
-        content: "Discovod v6.6.6 by hrushechka";
+        content: "Discovod v 6.6.6 by hrushechka";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
@@ -874,8 +859,3 @@ You can re-enable in setting
 
     #app-mount .wordmark__5b8c9 {top: 3.3px;}
     #app-mount .winButton_f17fb6 {top: 2px;}
-question-ai-logo
-useruser
-fullfull
-closeclose
-Chat AI
